@@ -28,37 +28,37 @@ Coming soon!
 
 ###### Class-aware localization scores
 
-![nmel vs localization error, mic](C:\Users\owner\Downloads\Nmel vs Localization Error.png)
+![nmel vs localization error, mic](Nmel vs Localization Error.png)
 
-![nmel vs localization recall, mic](C:\Users\owner\Downloads\Nmel vs Localization Recall.png)
+![nmel vs localization recall, mic](Nmel vs Localization Recall.png)
 
 ###### Localization-aware detection scores
 
-![nmel vs error rate, mic](C:\Users\owner\Downloads\Nmel vs Error Rate.png)
+![nmel vs error rate, mic](Nmel vs Error Rate.png)
 
-![nmel vs f-score, mic](C:\Users\owner\Downloads\Nmel vs F-score.png)
+![nmel vs f-score, mic](Nmel vs F-score.png)
 
 ###### SELD score
 
-![nmel vs seld score, mic](C:\Users\owner\Downloads\Nmel vs SELD.png)
+![nmel vs seld score, mic](Nmel vs SELD.png)
 
 ##### foa:
 
 ###### Class-aware localization scores
 
-![nmel vs localization error, foa](C:\Users\owner\Downloads\Nmel vs Localization Error1.png)
+![nmel vs localization error, foa](Nmel vs Localization Error1.png)
 
-![nmel vs localization recall, foa](C:\Users\owner\Downloads\Nmel vs Localization Recall1.png)
+![nmel vs localization recall, foa](Nmel vs Localization Recall1.png)
 
 ###### Localization-aware detection scores
 
-![nmel vs error rate, foa](C:\Users\owner\Downloads\Nmel vs Error Rate1.png)
+![nmel vs error rate, foa](Nmel vs Error Rate1.png)
 
-![nmel vs f-score, foa](C:\Users\owner\Downloads\Nmel vs F-score1.png)
+![nmel vs f-score, foa](Nmel vs F-score1.png)
 
 ###### SELD score
 
-![nmel vs seld score, mic](C:\Users\owner\Downloads\Nmel vs SELD1.png)
+![nmel vs seld score, mic](Nmel vs SELD1.png)
 
 ## Contact me
 GitHub: [AliaaMahgoub](https://github.com/AliaaMahgoub)   
