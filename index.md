@@ -21,29 +21,19 @@ Coming soon!
 
 ### Sound Event Localization and Detection
 #### Experiment: Number of Mel bins for the Mel spectrogram
-##### mic:
-###### Class-aware localization scores
-![nmel vs localization error, mic](Nmel vs Localization Error.png)
-![nmel vs localization recall, mic](Nmel vs Localization Recall.png)
 
-###### Localization-aware detection scores
-![nmel vs error rate, mic](Nmel vs Error Rate.png)
-![nmel vs f-score, mic](Nmel vs F-score.png)
+I experimented with the number of mel bins in the mel spectrogram to see how it affects the different evaluation metrics using both the microphone array (MIC) and first-order Ambisonics (FOA) formats. The original number of mel bins used in the model is 64.
 
-###### SELD score
-![nmel vs seld score, mic](Nmel vs SELD.png)
+##### Class-aware localization scores
+![nmel vs localization error](nmel_le.png)
+![nmel vs localization recall](nmel_lr.png)
 
-##### foa:
-###### Class-aware localization scores
-![nmel vs localization error, foa](Nmel vs Localization Error1.png)
-![nmel vs localization recall, foa](Nmel vs Localization Recall1.png)
+##### Localization-aware detection scores
+![nmel vs error rate](nmel_er.png)
+![nmel vs f-score](nmel_f.png)
 
-###### Localization-aware detection scores
-![nmel vs error rate, foa](Nmel vs Error Rate1.png)
-![nmel vs f-score, foa](Nmel vs F-score1.png)
-
-###### SELD score
-![nmel vs seld score, mic](Nmel vs SELD1.png)
+##### Analysis
+As expected, the FOA data resulted in better scores overall. However, the FOA and MIC formats had different optimal nmel numbers. The MIC data performed best overall with 256 Mel bins, while the FOA data performed best with 128 Mel bins. 
 
 ## Contact me
 GitHub: [AliaaMahgoub](https://github.com/AliaaMahgoub)   
