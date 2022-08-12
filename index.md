@@ -18,7 +18,7 @@ My name is Aliaa Mahgoub. I am a junior at Brooklyn Technical High School.
 ### Sound Scene Classification
 
 Coming soon!
-
+Please refer to my [project Google Site](https://sites.google.com/u/0/d/1UfnB-FctwuSkWAq12jvL9Gsze0CMXiLj/p/11piOisGQxsUtLMJgsGiC_yQ6xullUY1V/preview) for the time being.
 ### Sound Event Localization and Detection
 #### Experiment: Number of Mel bins for the Mel spectrogram
 
